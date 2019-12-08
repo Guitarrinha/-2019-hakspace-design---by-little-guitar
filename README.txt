@@ -66,3 +66,7 @@ explorer.
 
 
 Obs: Se o programa não estiver em seu computador ele não sera aberto!!
+
+
+
+
